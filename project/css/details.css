@@ -1,0 +1,21 @@
+.breadcrumb-item+.breadcrumb-item::before{
+    content: '>';
+}
+.btn-outline-primary{
+    color: rgb(102,102,102);
+    background-color: transparent;
+    background-image: none;
+    border-color: rgb(102,102,102);
+}
+.btn-outline-primary:hover,
+.btn-outline-primary:focus{
+    color: #007bff!important;
+    border-color: #007bff;
+    background: transparent;
+}
+.my_input_w{
+    width:2rem;
+}
+.btn-secondary{
+
+}
